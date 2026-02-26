@@ -1,0 +1,5 @@
+[
+  "tests/test_markdown_site.py::TestSite::test_basic",
+  "tests/test_markdown_site.py::TestSite::test_empty",
+  "tests/test_markdown_site.py::TestSite::test_type_error"
+]
